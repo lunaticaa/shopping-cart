@@ -1,3 +1,7 @@
+#react project about how to fetch and use routes and redux in my project 
+
+#it also has shopping basket
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
